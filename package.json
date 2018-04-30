@@ -1,0 +1,12 @@
+{
+  "name": "game-controls",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/vandeurenglenn/game-controls",
+  "author": "vandeurenglenn <vandeurenglenn@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "rollup -c"
+  }
+}
